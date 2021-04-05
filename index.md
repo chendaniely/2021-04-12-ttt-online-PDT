@@ -224,8 +224,6 @@ for more information.
 
 <hr/>
 
-<!--
-
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -277,8 +275,6 @@ for more information.
     </table>
   </div>
 </div>
-
--->
 
 <!--
   ETHERPAD
