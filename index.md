@@ -10,7 +10,7 @@ enddate: 2021-04-15        # machine-readable end date for the workshop in YYYY-
 instructor: ["Daniel Chen", "SherAaron Hurt"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["chend@vt.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad: "https://pad.carpentries.org/2021-04-12-ttt-online-PDT"            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
@@ -265,7 +265,7 @@ for more information.
     <h3>Day 4</h3>
     <table class="table table-striped">      
       <tr> <td>09:00PT/12:00ET</td> <td>Welcome Back </td> </tr>
-      <tr> <td>9:05/12:05ET</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>9:05/12:05</td> <td>More Practice Live Coding </td> </tr>
       <tr> <td>10:20/13:20</td> <td>Managing a Diverse Classroom </td> </tr>
       <tr> <td>10:50/13:50</td> <td>Break </td> </tr>      
       <tr> <td>11:05/14:05</td> <td>Workshop Introductions </td> </tr>
